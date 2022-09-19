@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/newsletter/static/css/main.44dfd297.css",
-    "main.js": "/newsletter/static/js/main.4232fc39.js",
-    "static/js/787.1e6f7e72.chunk.js": "/newsletter/static/js/787.1e6f7e72.chunk.js",
-    "static/media/photo.jpg": "/newsletter/static/media/photo.f20da6fdcf4de34c6d8b.jpg",
-    "static/media/ProximaNovaBold.woff": "/newsletter/static/media/ProximaNovaBold.31b9e85e720c6e1c66e6.woff",
-    "static/media/ProximaNovaReg.woff": "/newsletter/static/media/ProximaNovaReg.0693a83fd46af2975cda.woff",
-    "index.html": "/newsletter/index.html",
-    "main.44dfd297.css.map": "/newsletter/static/css/main.44dfd297.css.map",
-    "main.4232fc39.js.map": "/newsletter/static/js/main.4232fc39.js.map",
-    "787.1e6f7e72.chunk.js.map": "/newsletter/static/js/787.1e6f7e72.chunk.js.map"
+    "main.css": "/newsletter-project/static/css/main.53e28b52.css",
+    "main.js": "/newsletter-project/static/js/main.3e939c68.js",
+    "static/js/787.1e6f7e72.chunk.js": "/newsletter-project/static/js/787.1e6f7e72.chunk.js",
+    "static/media/photo.jpg": "/newsletter-project/static/media/photo.f20da6fdcf4de34c6d8b.jpg",
+    "static/media/ProximaNovaBold.woff": "/newsletter-project/static/media/ProximaNovaBold.31b9e85e720c6e1c66e6.woff",
+    "static/media/ProximaNovaReg.woff": "/newsletter-project/static/media/ProximaNovaReg.0693a83fd46af2975cda.woff",
+    "index.html": "/newsletter-project/index.html",
+    "main.53e28b52.css.map": "/newsletter-project/static/css/main.53e28b52.css.map",
+    "main.3e939c68.js.map": "/newsletter-project/static/js/main.3e939c68.js.map",
+    "787.1e6f7e72.chunk.js.map": "/newsletter-project/static/js/787.1e6f7e72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44dfd297.css",
-    "static/js/main.4232fc39.js"
+    "static/css/main.53e28b52.css",
+    "static/js/main.3e939c68.js"
   ]
 }
